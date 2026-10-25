@@ -10,7 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "^3.13.0",
+    "nuxt": "^4.6.2",
     "@nuxt/ui": "^2.14.2",
     "openai": "^4.28.0",
     "@pinia/nuxt": "^0.5.1",
